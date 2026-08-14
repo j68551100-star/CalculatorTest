@@ -2,7 +2,7 @@ package org.example;
 
 public class Multiplication {
 
-    public int multiply(int a, int b) {
+    public float multiply(float a, float b) {
         return a * b;
     }
 }

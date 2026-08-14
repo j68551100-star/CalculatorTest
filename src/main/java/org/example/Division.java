@@ -2,7 +2,7 @@ package org.example;
 
 public class Division {
 
-    public float divide(float a, float b) {
+    public int divide(int a, int b) {
 
         if (b == 0) {
             throw new ArithmeticException("Cannot divide by zero");

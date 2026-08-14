@@ -2,7 +2,7 @@ package org.example;
 
 public class Calculator {
 
-    public void display(float a,float b) {
+    public void display(int a,int b) {
 
         Addition addition = new Addition();
         Subtraction subtraction = new Subtraction();

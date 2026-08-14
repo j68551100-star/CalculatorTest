@@ -2,7 +2,7 @@ package org.example;
 
 public class Addition {
 
-    public float add(float a, float b) {
+    public int add(int a, int b) {
         return a + b;
     }
 }

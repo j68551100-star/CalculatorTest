@@ -2,7 +2,7 @@ package org.example;
 
 public class Subtraction {
 
-    public float subtract(float a, float b) {
+    public int subtract(int a, int b) {
         return a - b;
     }
 }
